@@ -493,4 +493,7 @@ html {
     .v-class-resp {
         opacity: 0;
     }
+    .navbar{
+        position: relative;
+    }
 }
